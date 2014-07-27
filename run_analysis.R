@@ -48,7 +48,7 @@ run <- function(dataPath = "UCI HAR Dataset/") {
   
   
   ## 8. Writing the result to the file
-  write.table(result, file="average_of_each_variable_for_each_activity_and_each_subject.csv", sep=";", row.names=FALSE)
+  write.table(result, file="average_of_each_variable_for_each_activity_and_each_subject.txt", sep=";", row.names=FALSE)
 }
 
 # 1. Start of processing 

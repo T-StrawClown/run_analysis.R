@@ -60,7 +60,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 * Step 5 - Combine the whole datasets.
 * Step 6 - Extract from dataset only the required columns like "-mean()" and "-std()".
 * Step 7 - Compute the means, grouped by activity/subject.
-* Step 8 - Writing the result to csv file.
+* Step 8 - Writing the result to ";" separated txt file.
 
 
 ## Data after Transformation
